@@ -5,17 +5,14 @@
 "decimals": 18,
 "website": "https://co2t.io",
 "description": "CO2T Carbon Token backed by verified carbon credits",
-"explorer": "https://polygonscan.com/token/0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
+"explorer": "https://etherscan.io/token/0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
 "status": "active",
 "id": "0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
+"tags": ["token"],
 "links": [
 {
-"name": "website",
-"url": "https://co2t.io"
-},
-{
 "name": "whitepaper",
-"url": "https://co2t.io/WhitePaper"
+"url": "https://co2t.io/whitepaper"
 },
 {
 "name": "telegram",
@@ -23,3 +20,4 @@
 }
 ]
 }
+
