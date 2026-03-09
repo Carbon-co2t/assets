@@ -1,0 +1,25 @@
+{
+"name": "Carbon Token",
+"symbol": "CO2T",
+"type": "ERC20",
+"decimals": 18,
+"website": "https://co2t.io",
+"description": "CO2T Carbon Token backed by verified carbon credits",
+"explorer": "https://polygonscan.com/token/0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
+"status": "active",
+"id": "0xC31FBdC017105d65D7A805Ea2590Cf422b02Ef8f",
+"links": [
+{
+"name": "website",
+"url": "https://co2t.io"
+},
+{
+"name": "whitepaper",
+"url": "https://co2t.io/WhitePaper"
+},
+{
+"name": "telegram",
+"url": "https://t.me/carbon_co2t"
+}
+]
+}
